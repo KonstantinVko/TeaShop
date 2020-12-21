@@ -1,0 +1,45 @@
+header {
+    width: 100%;
+    background: #669966;
+    height: 81px;
+    display: flex;
+    justify-content: center;
+}
+
+.header-wrap {
+    width: 1400px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 81px;
+    overflow: hidden;
+}
+
+.menu {
+    width: 500px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu li {
+    display: inline;
+    font-family: Open Sans;
+    font-size: 18px;
+    line-height: 25px;
+    color: #DFDFDF;
+}
+
+.header-login {
+    font-weight: 600;
+    line-height: 22px;
+    color: #FFFFFF;
+}
+
+.header-login li {
+    display: inline;
+    font-family: Open Sans;
+    font-size: 18px;
+    line-height: 22px;
+    color: white;
+}
