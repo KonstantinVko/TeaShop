@@ -20,13 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44e436ab-63e5-4199-b6b7-530a43738dff" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/img/atributes.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/coffe.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sale.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sweets.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/tea.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Galaxy-S20-S20-Plus-S20-Ultra-1 1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/ellipses.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/heart.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/lens.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/shoppingCart.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/ .png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
     </list>
@@ -50,11 +49,15 @@
     <option name="projectConfigVersion" value="2" />
   </component>
   <component name="ProjectId" id="1leL44c51mwOspXW4dQsng5j53z" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -74,6 +77,8 @@
       <workItem from="1607979623842" duration="7251000" />
       <workItem from="1607988291661" duration="5503000" />
       <workItem from="1608572627497" duration="2174000" />
+      <workItem from="1608665272797" duration="11000" />
+      <workItem from="1608665285287" duration="3662000" />
     </task>
     <servers />
   </component>
@@ -92,10 +97,17 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="1042" y="323" key="FileChooserDialogImpl" timestamp="1607952597640">
+    <state x="1042" y="323" key="FileChooserDialogImpl" timestamp="1608665282507">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1042" y="323" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1607952597640" />
+    <state x="1042" y="323" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1608665282507" />
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608665309403">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608665309403" />
   </component>
 </project>
