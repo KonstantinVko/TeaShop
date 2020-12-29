@@ -62,7 +62,7 @@ header {
 }
 
 .top-container1-top {
-    width: 1400px;
+    width: 1200px;
     height: 120px;
     padding: 0 50px;
     display: flex;
@@ -84,6 +84,7 @@ input[type="search"] {
 input[type="search"]:focus {
     border: none transparent;
 }
+
 .top-container1-info {
     display: flex;
     justify-content: space-between;
@@ -114,7 +115,7 @@ input[type="search"]:focus {
 }
 
 .top-container1-bot {
-    width: 1400px;
+    width: 1200px;
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
@@ -130,6 +131,7 @@ input[type="search"]:focus {
     color: #636363;
     padding: 0 46px 0 0;
 }
+
 .top-line {
     width: 732px;
     height: 5px;
@@ -181,6 +183,7 @@ input[type="search"]:focus {
     font-size: 18px;
     color: #999999;
 }
+
 .btn {
     width: 305px;
     height: 53px;
@@ -193,10 +196,12 @@ input[type="search"]:focus {
     align-items: center;
     justify-content: center;
 }
-.main {
+
+.productCatalog-blocks {
     margin-top: 100px;
 }
-.main h2 {
+
+.productCatalog-blocks h2 {
     font-family: Open Sans;
     font-style: normal;
     font-weight: bold;
@@ -205,6 +210,7 @@ input[type="search"]:focus {
     color: #3F3F3F;
     margin-bottom: 50px;
 }
+
 .big-menu {
     display: flex;
     height: 670px;
@@ -212,6 +218,7 @@ input[type="search"]:focus {
     justify-content: space-between;
     align-items: center;
 }
+
 .big-menu p {
     font-family: Open Sans;
     font-weight: 600;
@@ -219,6 +226,7 @@ input[type="search"]:focus {
     color: #3F3F3F;
     margin: 20px 0 0 25px;
 }
+
 .big-menu-tea {
     width: 793px;
     height: 323px;
@@ -226,6 +234,7 @@ input[type="search"]:focus {
     background: url("img/tea.jpg");
     background-size: cover;
 }
+
 .big-menu-coffee {
     width: 387px;
     height: 323px;
@@ -233,6 +242,7 @@ input[type="search"]:focus {
     background: url("img/coffe.jpg");
     background-size: cover;
 }
+
 .big-menu-sweets {
     width: 387px;
     height: 323px;
@@ -240,6 +250,7 @@ input[type="search"]:focus {
     background: url("img/sweets.jpg");
     background-size: cover;
 }
+
 .big-menu-attributes {
     width: 488px;
     height: 323px;
@@ -247,6 +258,7 @@ input[type="search"]:focus {
     background: url("img/atributes.jpg");
     background-size: cover;
 }
+
 .big-menu-sale {
     width: 285px;
     height: 323px;
@@ -254,13 +266,65 @@ input[type="search"]:focus {
     background: url("img/sale.png"), #E7E7E7;;
 
 }
+
 .big-menu-first-block {
     display: flex;
     width: 90%;
     justify-content: space-evenly;
 }
+
 .big-menu-second-block {
     display: flex;
     width: 90%;
     justify-content: space-evenly;
+}
+
+.productsBest {
+    margin: 100px auto 0;
+    width: 1200px;
+}
+
+.productsBest h3 {
+    font-family: Open Sans;
+    font-weight: bold;
+    font-size: 33px;
+    text-align: center;
+    color: #3F3F3F;
+
+}
+
+.productsBest-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.productsBest-item {
+    width: 285px;
+    height: 555px;
+    background: #FFFFFF;
+    box-shadow: -10px -10px 20px rgba(245, 245, 245, 0.7), 10px 10px 20px rgba(245, 245, 245, 0.7);
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.productsBest-item + div:first-of-type {
+    display: flex;
+    justify-content: space-between;
+}
+
+.productsBest-item:first-child div:nth-child(2) {
+    height: 200px;
+    width: 100%;
+    background: url("img/show-mey.png") center no-repeat;
+}
+.productsBest-item h4 {
+    font-family: Open Sans;
+    font-weight: 600;
+    font-size: 21px;
+    color: #3f3f3f;
+    text-align: left;
 }

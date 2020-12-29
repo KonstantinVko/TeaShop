@@ -20,11 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44e436ab-63e5-4199-b6b7-530a43738dff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/atributes.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/coffe.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/sale.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/sweets.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/tea.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/bai-mu-dan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lushan-un.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/show-mey.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/uan-un.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
@@ -79,6 +78,7 @@
       <workItem from="1608572627497" duration="2174000" />
       <workItem from="1608665272797" duration="11000" />
       <workItem from="1608665285287" duration="3662000" />
+      <workItem from="1609230326375" duration="5657000" />
     </task>
     <servers />
   </component>
@@ -99,15 +99,5 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="1042" y="323" key="FileChooserDialogImpl" timestamp="1608665282507">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1042" y="323" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1608665282507" />
-    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608665309403">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608665309403" />
   </component>
 </project>
