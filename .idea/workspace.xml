@@ -20,7 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44e436ab-63e5-4199-b6b7-530a43738dff" name="Default Changelist" comment="fonts fix">
-      <change afterPath="$PROJECT_DIR$/img/bottom-banner-pic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo-white.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PhonesShop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PhonesShop.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
@@ -46,6 +47,7 @@
   </component>
   <component name="ProjectId" id="1leL44c51mwOspXW4dQsng5j53z" />
   <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="Update" />
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -145,5 +147,11 @@
     <MESSAGE value="center" />
     <MESSAGE value="fonts fix" />
     <option name="LAST_COMMIT_MESSAGE" value="fonts fix" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609681606677">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1609681606677" />
   </component>
 </project>
