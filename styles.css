@@ -463,11 +463,43 @@ input[type="email"] {
     left: 250px;
     width: 203px;
     height: 56px;
+    cursor: pointer;
 }
 footer {
     background: #4F6C4F;
     height: 339px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.footer-social {
+    color: white;
+    font-size: 50px;
 }
 footer p {
     color: white;
+}
+footer ul li {
+    margin-bottom: 10px;
+    font-size: 18px;
+    color: white;
+}
+footer ul li:first-child {
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+footer + div {
+    align-self: center;
+}
+footer .top-info p:nth-child(2), .top-info p:nth-child(3) {
+    color:white;
+}
+.footer-last-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 60%;
+}
+footer + div {
+    display: flex;
 }
